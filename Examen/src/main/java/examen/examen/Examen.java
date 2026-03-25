@@ -13,4 +13,8 @@ public class Examen {
     public static void main(String[] args) {
         System.out.println("Hello Alex Bofill!");
     }
+    public static void main(String[] args){
+        int numero=12;
+        system.out.println("El numero es :"+numero);
+    }
 }
